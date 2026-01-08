@@ -1,4 +1,4 @@
-# notepad-on-tauri
+# csv-cleaning-2-desktop-tauri
 
 Tauri で作るメモ帳（＾～＾）  
 
